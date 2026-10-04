@@ -2,7 +2,11 @@
 
 A personal portfolio website introducing Pravin Chaudhary, his education, selected projects, and contact links.
 
-## View the portfolio
+## Live site
+
+[View the live portfolio](https://pravin-chaudhary-portfolio.vercel.app/)
+
+## View the source locally
 
 Open [index.html](index.html) in a browser. The site is built with plain HTML, CSS, and JavaScript; no build step is required.
 
